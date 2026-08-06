@@ -89,7 +89,6 @@ I selected this artefact because it demonstrates how ethical principles influenc
 
 ---
 
----
 
 ## Overall Reflection
 
