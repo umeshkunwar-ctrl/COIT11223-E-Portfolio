@@ -98,6 +98,7 @@ The four artefacts showed me that governments and professional organisations are
 
 This learning has increased my confidence in analysing ethical problems and will help me make more responsible decisions in my future career as an ICT professional.
 
+---
 
 ## Use of Artificial Intelligence
 
