@@ -54,7 +54,7 @@ I selected this artefact because it demonstrates how ethical theories can be app
 
 # Artefact 3 – NIST AI Risk Management Framework (2024)
 
-![NIST AI Framework]artefact 3.png.png
+![NIST AI Framework](artefact%203.png.png)
 
 **Source:** https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence
 
