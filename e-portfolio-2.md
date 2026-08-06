@@ -20,6 +20,10 @@ This e-portfolio demonstrates my understanding of ethical theories studied in We
 
 **(Upload your Workshop 4 selfie or workshop screenshot here.)**
 
+
+
+
+
 ### Summary of the Artefact
 
 This artefact is evidence of my attendance and participation in Week 4 of COIT11223. During this workshop, I learned that ethics is the study of morality and that ethical theories provide structured approaches for making decisions about technology. The workshop introduced Kantianism, Act Utilitarianism, Rule Utilitarianism, Social Contract Theory and Virtue Ethics. I also learned that these theories help ICT professionals analyse ethical issues from different perspectives.
