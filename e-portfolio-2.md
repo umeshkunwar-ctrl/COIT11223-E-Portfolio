@@ -21,6 +21,7 @@ This e-portfolio demonstrates my understanding of ethical theories studied in We
 **(Upload your Workshop 4 selfie or workshop screenshot here.)**
 
 WEEK 4 ATTENDANCE.jpeg
+![WEEK 4 ATTENDANCE](https://github.com/user-attachments/assets/xxxxxxxx)
 
 
 
