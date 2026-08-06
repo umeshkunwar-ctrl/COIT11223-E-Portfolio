@@ -23,7 +23,7 @@ This e-portfolio demonstrates my understanding of ethical theories studied in We
 WEEK 4 ATTENDANCE.jpeg
 ![WEEK 4 ATTENDANCE](https://github.com/user-attachments/assets/xxxxxxxx)
 
-
+![Week 4 Workshop](WEEK%204%20ATTENDANCE.jpeg)
 
 ### Summary of the Artefact
 
