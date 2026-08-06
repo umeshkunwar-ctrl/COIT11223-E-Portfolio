@@ -69,8 +69,7 @@ I selected this artefact because it shows that AI systems should be carefully as
 ---
 
 # Artefact 4 – European Union Artificial Intelligence Act (2024)
-
-![European Union AI Act](artefact 4.png.png)
+![European Union AI Act](artefact4.png)
 
 **Source:** https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng
 
