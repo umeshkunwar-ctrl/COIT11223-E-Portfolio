@@ -50,3 +50,18 @@ The Australian Government published the Voluntary AI Safety Standard on 5 Septem
 
 I selected this artefact because it demonstrates how ethical theories can be applied to real-world AI governance. The standard relates strongly to Rule Utilitarianism because it focuses on following rules that maximise benefits and minimise harm for society. It also highlights the responsibility of ICT professionals to develop AI systems that are fair, safe and transparent. This artefact helped me understand that successful AI systems require not only advanced technology but also ethical decision-making and responsible governance.
 
+---
+
+# Artefact 3 – NIST AI Risk Management Framework (2024)
+
+![NIST AI Framework](artefact%203.png)
+
+**Source:** https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence
+
+### Summary of the Artefact
+
+The National Institute of Standards and Technology (NIST) published the Artificial Intelligence Risk Management Framework: Generative AI Profile in 2024. The framework helps organisations identify, assess and manage the risks associated with generative AI systems. It emphasises trustworthiness, transparency, security, privacy, fairness and continuous monitoring throughout the AI lifecycle. The framework encourages organisations to develop AI responsibly while reducing potential risks to individuals and society.
+
+### Reflection and Justification
+
+I selected this artefact because it demonstrates the importance of managing AI risks before deploying AI systems. It closely relates to **Act Utilitarianism**, which evaluates actions by considering whether their overall benefits outweigh their harms. The NIST framework encourages organisations to identify possible risks, evaluate the consequences and implement controls to minimise harm. This artefact helped me understand that responsible AI development requires careful planning, ongoing monitoring and ethical decision-making throughout the system's lifecycle.
