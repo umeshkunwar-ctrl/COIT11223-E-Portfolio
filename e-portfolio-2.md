@@ -53,4 +53,6 @@ I selected this artefact because it demonstrates how ethical theories can be app
 
 https://www.industry.gov.au/publications/voluntary-ai-safety-standard
 
+![Australian AI Safety Standard](your-image-file-name.png)
+
 
