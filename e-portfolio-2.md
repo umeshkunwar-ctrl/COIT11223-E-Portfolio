@@ -89,16 +89,21 @@ I selected this artefact because it demonstrates how ethical principles influenc
 
 ---
 
+---
+
 ## Overall Reflection
 
-Completing this e-portfolio improved my understanding of how ethical theories are applied to Artificial Intelligence. Before the workshop, I mainly focused on AI's technical capabilities. After studying Kantianism, Act Utilitarianism, Rule Utilitarianism and Social Contract Theory, I realised that ICT professionals must also consider fairness, privacy, accountability and the broader impact of AI on society. The four artefacts demonstrated that governments and organisations worldwide are developing ethical guidelines and regulations to promote responsible AI. This learning has increased my confidence in making ethical decisions as a future ICT professional.
----
+Completing this e-portfolio improved my understanding of how ethical theories can be applied to Artificial Intelligence. Before attending the Week 4 workshop, I mainly focused on the technical capabilities and benefits of AI. After studying Kantianism, Act Utilitarianism, Rule Utilitarianism, Social Contract Theory and Virtue Ethics, I realised that ICT professionals must also consider fairness, privacy, accountability, human dignity and the wider impact of AI on society.
+
+The four artefacts showed me that governments and professional organisations are developing standards, risk-management frameworks and laws to support the responsible use of AI. One of the most valuable lessons I learned was that no single ethical theory can solve every AI-related issue. Each theory provides a different perspective, so ICT professionals should consider duties, rights, consequences and agreed social rules before making decisions.
+
+This learning has increased my confidence in analysing ethical problems and will help me make more responsible decisions in my future career as an ICT professional.
+
 
 ## Use of Artificial Intelligence
 
-I used ChatGPT during the planning and research stage of this assessment to identify suitable artefacts, organise my GitHub portfolio and improve my understanding of the ethical theories discussed in Week 4. I reviewed the official sources, verified the information and edited the final content to reflect my own understanding and learning.
+Artificial Intelligence (AI) tools were used during the planning and research stages of this assessment. ChatGPT was used to help generate ideas, identify suitable artefacts, organise the GitHub e-portfolio structure and improve my understanding of the ethical theories covered in Week 4. I independently selected the final artefacts from official sources, verified the information, and edited the final content to ensure it reflects my own understanding, learning and personal reflections in accordance with the assessment requirements.
 
----
 
 ## References
 
