@@ -14,9 +14,9 @@ This e-portfolio demonstrates my understanding of the ethical theories studied d
 
 ---
 
-# Artefact 1 – Week 4 Workshop Participation
+## Artefact 1 – Week 4 Workshop Participation
 
-## Workshop Evidence
+### Workshop Evidence
 
 ![Week 4 Workshop](WEEK%204%20ATTENDANCE.jpeg)
 ### Summary of the Artefact
@@ -29,13 +29,15 @@ I selected this artefact because it demonstrates my participation in the worksho
 
 ---
 
-# Artefact 2 – Australian Voluntary AI Safety Standard (2024)
+## Artefact 2 – Australian Voluntary AI Safety Standard (2024)
+
 
 ![Australian AI Safety Standard](artefact%202%20.png)
 
 **Source:** https://www.industry.gov.au/publications/voluntary-ai-safety-standard
 
 ### Summary of the Artefact
+
 
 The Australian Government published the Voluntary AI Safety Standard on 5 September 2024 to encourage organisations to develop and use Artificial Intelligence responsibly. The standard outlines principles including accountability, transparency, human oversight, privacy protection, testing and risk management. Its purpose is to improve public trust while reducing the risks associated with AI technologies (Department of Industry, Science and Resources 2024).
 
@@ -45,7 +47,8 @@ I selected this artefact because it demonstrates how ethical theories can be app
 
 ---
 
-# Artefact 3 – NIST AI Risk Management Framework (2024)
+## Artefact 3 – NIST AI Risk Management Framework (2024)
+
 
 ![NIST AI Framework](artefact%203.png.png)
 
@@ -56,12 +59,11 @@ I selected this artefact because it demonstrates how ethical theories can be app
 The National Institute of Standards and Technology (NIST) published the Artificial Intelligence Risk Management Framework: Generative AI Profile in 2024. The framework provides practical guidance for organisations to identify, assess and manage the risks associated with generative AI systems. It focuses on trustworthiness, transparency, security, privacy, fairness and continuous monitoring throughout the AI lifecycle (National Institute of Standards and Technology 2024).
 
 ### Reflection and Justification
-
 I selected this artefact because it demonstrates the importance of identifying AI risks before deployment. The framework relates to Act Utilitarianism because organisations evaluate whether the benefits of AI outweigh the potential harms. This artefact helped me understand that responsible AI requires continuous monitoring and ethical decision-making throughout the development process rather than focusing only on technical performance.
 
 ---
 
-# Artefact 4 – European Union Artificial Intelligence Act (2024)
+## Artefact 4 – European Union Artificial Intelligence Act (2024)
 ![European Union AI Act](artefact4.png.png)
 
 **Source:** https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng
@@ -76,18 +78,18 @@ I selected this artefact because it demonstrates how ethical principles influenc
 
 ---
 
-# Overall Reflection
+## Overall Reflection
 
 Completing this e-portfolio improved my understanding of how ethical theories are applied to Artificial Intelligence. Before the workshop, I mainly focused on AI's technical capabilities. After studying Kantianism, Act Utilitarianism, Rule Utilitarianism and Social Contract Theory, I realised that ICT professionals must also consider fairness, privacy, accountability and the broader impact of AI on society. The four artefacts demonstrated that governments and organisations worldwide are developing ethical guidelines and regulations to promote responsible AI. This learning has increased my confidence in making ethical decisions as a future ICT professional.
 ---
 
-# Use of Artificial Intelligence
+## Use of Artificial Intelligence
 
 I used ChatGPT during the planning and research stage of this assessment to identify suitable artefacts, organise my GitHub portfolio and improve my understanding of the ethical theories discussed in Week 4. I reviewed the official sources, verified the information and edited the final content to reflect my own understanding and learning.
 
 ---
 
-# References
+## References
 
 CQUniversity Australia 2026, *COIT11223 ICT Ethics and Governance in Society – Week 4 Workshop: Ethics and Ethical Theories*, CQUniversity Australia.
 
