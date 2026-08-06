@@ -38,21 +38,15 @@ I selected this artefact because it represents my active participation in the wo
 
 # Artefact 2 – Australian Voluntary AI Safety Standard (2024)
 
-## Artefact
+![Australian AI Safety Standard](artefact%202%20.png)
 
-**Website:** https://www.industry.gov.au/publications/voluntary-ai-safety-standard
+**Source:** https://www.industry.gov.au/publications/voluntary-ai-safety-standard
 
 ### Summary of the Artefact
 
-The Australian Government released the Voluntary AI Safety Standard in 2024 to encourage organisations to develop and use artificial intelligence responsibly. The standard outlines principles such as accountability, transparency, risk management, human oversight, privacy protection and continuous monitoring. Its aim is to reduce the risks associated with AI while encouraging innovation and public trust in AI technologies.
+The Australian Government published the Voluntary AI Safety Standard on 5 September 2024 to promote the safe and responsible development and use of artificial intelligence in Australia. The standard provides guidance for organisations to manage AI risks through accountability, transparency, human oversight, privacy protection, testing and continuous monitoring. Its main objective is to encourage trustworthy AI while reducing potential harm to individuals and society.
 
 ### Reflection and Justification
 
-I selected this artefact because it demonstrates how ethical theories can be applied in real-world AI governance. The standard reflects Rule Utilitarianism because it encourages organisations to follow consistent rules that maximise benefits and minimise harm for society. It also highlights the importance of accountability and protecting users. This artefact helped me understand that ethical AI requires more than advanced technology; it also requires responsible governance and ethical decision-making by ICT professionals.
-
-
-https://www.industry.gov.au/publications/voluntary-ai-safety-standard
-
-![Australian AI Safety Standard](your-image-file-name.png)
-
+I selected this artefact because it demonstrates how ethical theories can be applied to real-world AI governance. The standard relates strongly to Rule Utilitarianism because it focuses on following rules that maximise benefits and minimise harm for society. It also highlights the responsibility of ICT professionals to develop AI systems that are fair, safe and transparent. This artefact helped me understand that successful AI systems require not only advanced technology but also ethical decision-making and responsible governance.
 
