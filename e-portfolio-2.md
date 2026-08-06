@@ -32,3 +32,25 @@ This artefact is evidence of my attendance and participation in Week 4 of COIT11
 ### Reflection and Justification
 
 I selected this artefact because it represents my active participation in the workshop and demonstrates how my understanding of AI ethics has improved. Before attending the workshop, I mainly focused on the technical benefits of Artificial Intelligence. After learning about ethical theories, I realised that ICT professionals must also consider fairness, privacy, human rights and the possible consequences of AI systems. This workshop helped me understand that ethical decision-making is an important responsibility for every ICT professional.
+
+
+---
+
+# Artefact 2 – Australian Voluntary AI Safety Standard (2024)
+
+## Artefact
+
+**Website:** https://www.industry.gov.au/publications/voluntary-ai-safety-standard
+
+### Summary of the Artefact
+
+The Australian Government released the Voluntary AI Safety Standard in 2024 to encourage organisations to develop and use artificial intelligence responsibly. The standard outlines principles such as accountability, transparency, risk management, human oversight, privacy protection and continuous monitoring. Its aim is to reduce the risks associated with AI while encouraging innovation and public trust in AI technologies.
+
+### Reflection and Justification
+
+I selected this artefact because it demonstrates how ethical theories can be applied in real-world AI governance. The standard reflects Rule Utilitarianism because it encourages organisations to follow consistent rules that maximise benefits and minimise harm for society. It also highlights the importance of accountability and protecting users. This artefact helped me understand that ethical AI requires more than advanced technology; it also requires responsible governance and ethical decision-making by ICT professionals.
+
+
+https://www.industry.gov.au/publications/voluntary-ai-safety-standard
+
+
