@@ -1,17 +1,18 @@
 # E-Portfolio 2 – Ethical Theory
 
-**Student Name:** Umesh Kunwar
+**Name of Student:** Umesh Kunwar
 
-**Student Number:** 12301486
+**Number of Student:** 12301486
 
-**Unit:** COIT11223 ICT Ethics and Governance in Society
+**Unit Name:** COIT11223 ICT Ethics and Governance in Society
 
-**Topic:** Ethical Theory and Artificial Intelligence
+**Theme of The Assignment:** Ethical Theory and Artificial Intelligence
+
 
 ## Introduction
 
-In this e-portfolio, I will show how I have grasped the ethical theories that we studied in Week 4 of COIT11223 ICT Ethics and Governance in Society. Because my Assessment 1 is about Artificial Intelligence (AI), I chose four modern examples of AI artefacts which demonstrate the application of ethical theories to the real world. The artefacts help me share my learning about ethical decision-making and the responsibility of ICT professionals regarding the creation and use of AI (CQUniversity Australia 2026).
 
+The e-portfolio that I am presenting will show that I have learned the ethical principles that we have gone through in Week 4 of the COIT11223 course. It is because of my assignment being on Artificial Intelligence (AI) that I have chosen to discuss four AI artefacts which illustrate the different applications of ethical theories in practice. Through the artefacts I am able to talk about my knowledge of ethical reasoning and responsibility of ICT professionals in relation to the development of AI (CQUniversity Australia 2026).
 ---
 
 ## Artefact 1 – Week 4 Workshop Participation
@@ -22,11 +23,11 @@ In this e-portfolio, I will show how I have grasped the ethical theories that we
 
 ### Summary of the Artefact
 
-This document shows that I attended and participated in Week 4's COIT11223 workshop. Within the workshop, I learned that ethics is the study of morality and that ethical theories involve several ways when it comes to responsible decision-making. It introduced several theories, namely, Kantianism, Act Utilitarianism, Rule Utilitarianism, Social Contract Theory and Virtue Ethics, which help ICT professionals in a different angle of analysis of ethical issues like the development or utilization of Artificial Intelligence (CQUniversity Australia 2026).
+The document indicates that I took part in the COIT11223 workshop in Week 4. During the workshop, I gained knowledge about ethics, which was defined as the study of morality. I also learned about some ethical theories which indicate different ways of making responsible decisions. I was introduced to the following ethical theories: Kantianism, Act Utilitarianism, Rule Utilitarianism, Social Contract Theory and Virtue Ethics. All these theories provide several different perspectives on the ethical problems faced by ICT professionals while developing and using Artificial Intelligence.
 
 ### Reflection and Justification
 
-I chose the artifact because it shows my involvement in the workshop and my participation in the learning activities. Prior to attending the workshop, I was more focused on the technology benefits of Artificial Intelligence. But, after knowing the ethical theories, I understood that IT professionals should also focus on the issues of fairness, privacy, human rights and accountability in the development of AI.
+The reason for selecting this artifact is that it presents my participation in the workshop as well as my involvement in the learning processes. Before attending the workshop, I used to think mostly about the advantages of using Artificial Intelligence. However, having learned the ethical theories, I realized that IT specialists should also think about fairness, privacy, human rights and accountability when developing AI.
 
 
 ---
@@ -41,13 +42,11 @@ I chose the artifact because it shows my involvement in the workshop and my part
 
 ### Summary of the Artefact
 
-
-The Australian Government released the voluntary AI Safety Standard on September 5, 2024, to promote the responsible use of artificial intelligence by companies. The standard describes principles such as accountability, transparency, human supervision, protection of privacy, testing, and risk management. Its aim is to improve public trust and reduce the risks associated with AI technologies (Department of Industry, Science and Resources 2024).
-
+On the 5th of September 2024, the voluntary AI Safety Standard was introduced by the Australian Government for companies to utilize artificial intelligence in a responsible way. The standard incorporates certain principles, involving accountability, transparency, human intervention, protection of privacy, testing, and risk management. The purpose of the standard is to increase the public’s trust and mitigate the risks of artificial intelligence (Department of Industry, Science, and Resources 2024).
 
 ### Reflection and Justification
 
-I have chosen this particular artefact because it shows how ethical theories are practically applied in governing AI. The rule represents this ethical theory as it implies that companies follow the common rules that provide positive effects for the society. Moreover, it shows the obligation of the ICT experts to make sure that the artificial intelligence systems are fair and safe. This artefact has enabled me to learn more about the responsible governance of AI in Australia.
+I chose this specific artefact because it demonstrates how the ethical theories are utilized in regulating artificial intelligence. The principle can be considered a representation of this ethical theory, since it implies that companies need to adhere to the common rules that will provide positive results for the society. Additionally, it demonstrates the responsibility of IT experts to ensure fairness and safety of their AIs.
 
 ---
 
@@ -59,14 +58,14 @@ I have chosen this particular artefact because it shows how ethical theories are
 **Source:** https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence
 
 
-### Summary of the Artefact
+### Overview of the Artefact
 
-The National Institute of Standards and Technology (NIST) released the Artificial Intelligence Risk Management Framework in the year 2024. The framework shows how different organizations can recognize, analyze, and manage the risks that may be related to the use of generative AI systems. It mainly focuses on factors such as trustworthiness, transparency, security, privacy, fairness, and continuous monitoring during an AI lifecycle (National Institute of Standards and Technology 2024).
+The National Institute of Standards and Technology (NIST) issued its Artificial Intelligence Risk Management Framework in 2024. This framework demonstrates how various organizations can detect and monitor risks connected to generative AI. The major concepts used in this framework include credibility, accountability, safety, secrecy, justice, and ongoing observation of an AI system throughout its lifecycle (National Institute of Standards and Technology 2024).
 
 
-### Reflection and Justification
+### Thought Process and Explanation
 
-I chose this artifact because it shows the significance of detecting AI risks ahead of time. This framework connects to the Act Utilitarianism theory since companies analyze whether the advantages of AI outweigh the possible negatives. Finally, this artifact brought me the understanding that responsible AI involves the constant monitoring of performance as well as ethical decision-making processes during the entire process of development, rather than concentrating only on technical efficiency.
+The reason why I chose this artefact is that it illustrates the importance of identifying and managing AI threats in advance. This framework relates to Act Utilitarianism theory because businesses need to determine whether the advantages offered by AI exceed its potential downsides. Finally, the knowledge I gained from this artefact is that responsible AI involves constant monitoring of activity and ethics throughout the whole lifecycle instead of just focusing on number crunching.
 
 ---
 
@@ -77,32 +76,27 @@ I chose this artifact because it shows the significance of detecting AI risks ah
 **Source:** https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng
 
 
-### Summary of the Artefact
+### Overview of the Artefact
 
-The Artificial Intelligence Act by the European Union is the first legal framework in the world that is concerned with the regulation of Artificial Intelligence. Published in the year 2024, the Act divides Artificial Intelligence systems into different classes based on their degree of risk and imposes obligations on businesses that create and use AI. The goal of the Act is to protect human rights and civil liberties, as well as to guarantee privacy, transparency, and security, while stimulating responsible innovation (European Parliament and Council of the European Union 2024).
+Regulating artificial intelligence has become a major concern for the European Union which introduced the first-ever legal framework in 2024 (the AI Act). This act regulates AI systems by categorizing them according to their risk level and places many obligations on companies for developing and using AI solutions. The aim of the AI Act is to both protect human rights and civil liberties and make sure that privacy, transparency, and security are ensured while encouraging responsible innovation (European Parliament and Council of the European Union n.d.).
 
-
-### Reflection and Justification
-
-
-The reason why I selected this artifact is that it illustrates the influence of ethical principles on AI governance. The legislation bears a connection with social contract theory in that companies aim to follow regulations that fulfill social needs. The encryption may also be looked at as an illustration of adherence to Kantianism as the legislation presumes the idea that people have other qualities than just being instruments in people's hands. The findings show me that ethical AI should consist of technology and law.
-
----
+### Personal Reflection
 
 
-## Overall Reflection
-
-In creating this e-portfolio, I became more aware of how ethical theories can be employed in the field of Artificial Intelligence. Prior to attending Week 4 workshop, my focus had been primarily on the technical features and advantages of AI. However, the study of Kantianism, Act Utilitarianism, Rule Utilitarianism, Social Contract Theory and Virtue Ethics made me understand that IT specialists need to take into account justice, privacy, responsibility, dignity of people and the overall consequences of AI for society.
-
-Based on my four artifacts, I’ve learned that governments and other professional organizations make efforts to establish standards and regulations regarding responsible use of AI. One of the most important points that I’ve learned is the fact that no single ethical theory can provide answer to all ethical issues related to AI. Every ethical theory offers a certain perspective on ethical problems, hence IT specialists should bear in mind their responsibilities and rights as well as consequences and social norms before making any decisions.
-
-This knowledge has made me more confident in evaluating ethical issues, thus enabling me to make more responsible choices in my career as an ICT specialist. 
+I consider the AI Act to be an appropriate example of how ethics affect AI governance because it shows that companies tend to comply with regulations meant to meet social needs. The act can also be analyzed from the perspective of Kantian ethics because it suggests that people are more than instruments that could be manipulated.
 
 ---
 
-## Use of Artificial Intelligence
 
-During the planning and research phase, some artificial intelligence (AI) tools have been employed for this assessment. I used ChatGPT to help me with the development of ideas, location of the right artefacts, arrangement of the structure of the GitHub e-portfolio and gaining an understanding of the ethical theories discussed in the course. However, I personally selected the artefacts myself using official sources, verified the information, and made the final changes in the content so that it keeps my understanding and learning in line with the requirements of assessment.
+In developing my e-portfolio, I had a better understanding of ethical theories and how they can be applied to AI. I used to focus exclusively on technical aspects of AI until attending Week 4. The examination of Kantianism, Act Utilitarianism, Rule Utilitarianism, Social Contract Theory and Virtue Ethics allowed me to realize that IT professionals should consider issues of justice, privacy, responsibility, and dignity of people when dealing with AI.
+
+Looking at my four artifacts, I concluded that both governmental bodies and professional organizations make attempts to develop rules and standards in terms of responsible use of AI. What I find astonishing in this regard is that no ethical theory can solve every ethical problem related to AI. Each theory has its own point of view on ethical issue, which is why IT professionals should always keep in mind their both rights and responsibilities as well as ethical consequences of their actions.
+
+This knowledge has made it easier for me to handle ethical dilemmas and thus make correct decisions in my ICT career. 
+
+---
+
+It is worth noting that artificial intelligence (AI) tools were used in tasks associated with this assessment at the stage of planning and researching. For instance, ChatGPT was used for the idea creation, location of appropriate artifacts, organization of the structure of the e-portfolio on GitHub, and familiarizing myself with the ethical theories discussed during the course. Nonetheless, the artifacts have been picked independently using credible references, the information was verified, and the content was modified accordingly to match my comprehension and learning objectives.
 
 
 ## References
