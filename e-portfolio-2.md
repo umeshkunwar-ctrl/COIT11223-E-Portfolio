@@ -27,7 +27,7 @@ The document indicates that I took part in the COIT11223 workshop in Week 4. Dur
 
 ### Reflection and Justification
 
-The reason for selecting this artifact is that it presents my participation in the workshop as well as my involvement in the learning processes. Before attending the workshop, I used to think mostly about the advantages of using Artificial Intelligence. However, having learned the ethical theories, I realized that IT specialists should also think about fairness, privacy, human rights and accountability when developing AI.
+My choice of this artifact is because it reflects my involvement in the workshop and opportunities for learning. Pre-workshop, I was only thinking about the benefits of employing Artificial Intelligence. But after gaining an understanding of the ethical theories, I began to think about IT professionals should also consider fairness, privacy, human rights and accountability in the process of building AI.
 
 
 ---
@@ -46,7 +46,7 @@ On the 5th of September 2024, the voluntary AI Safety Standard was introduced by
 
 ### Reflection and Justification
 
-I chose this specific artefact because it demonstrates how the ethical theories are utilized in regulating artificial intelligence. The principle can be considered a representation of this ethical theory, since it implies that companies need to adhere to the common rules that will provide positive results for the society. Additionally, it demonstrates the responsibility of IT experts to ensure fairness and safety of their AIs.
+I selected this particular artefact because it illustrates how the ethical theories are used to control artificial intelligence. The principle can be considered a representation of this ethical theory, since it implies that companies need to adhere to the common rules that will provide positive results for the society. It will also show the role of IT professionals with regard to the fairness and safety of their AIs.
 
 ---
 
@@ -76,9 +76,9 @@ The reason why I chose this artefact is that it illustrates the importance of id
 **Source:** https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng
 
 
-### Overview of the Artefact
+### Overview of the Entity
 
-Regulating artificial intelligence has become a major concern for the European Union which introduced the first-ever legal framework in 2024 (the AI Act). This act regulates AI systems by categorizing them according to their risk level and places many obligations on companies for developing and using AI solutions. The aim of the AI Act is to both protect human rights and civil liberties and make sure that privacy, transparency, and security are ensured while encouraging responsible innovation (European Parliament and Council of the European Union n.d.).
+In 2024, the European Union introduced new legislation governing Artificial Intelligence which has signified the commencement of the legal regulation of artificial intelligence. The AI Act regulates the workings of artificial intelligence by classifying them into various levels of risk and imposing a number of obligations on the companies to develop and use AI technologies. Notably, the purpose of the AI Act is to ensure protection of human rights and civil liberties as well as protection of privacy, transparency, and security as well as promotion of responsible innovations (European Parliament and the Council of the European Union n.d.).
 
 ### Personal Reflection
 
