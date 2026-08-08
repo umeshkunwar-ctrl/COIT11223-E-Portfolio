@@ -12,10 +12,10 @@
 ## Introduction
 
 
-The e-portfolio that I am presenting will show that I have learned the ethical principles that we have gone through in Week 4 of the COIT11223 course. It is because of my assignment being on Artificial Intelligence (AI) that I have chosen to discuss four AI artefacts which illustrate the different applications of ethical theories in practice. Through the artefacts I am able to talk about my knowledge of ethical reasoning and responsibility of ICT professionals in relation to the development of AI (CQUniversity Australia 2026).
+The e-portfolio that I am going to present will demonstrate that I have acquired the ethical principles that we have studied this week in COIT11223 Week 4. I have selected the four AI artefacts as a result of my assignment being on Artificial Intelligence (AI) so that I can discuss the different uses of the ethical theories that have been practiced in real life. Through the artefacts I am able to talk about my knowledge of ethical reasoning and responsibility of ICT professionals in relation to the development of AI (CQUniversity Australia 2026).
 ---
 
-## Artefact 1 – Week 4 Workshop Participation
+This week was dedicated to designing and creating artefacts.This week was spent designing and creating Artefacts.
 
 ### Workshop Evidence
 
