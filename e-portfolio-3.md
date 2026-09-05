@@ -18,6 +18,7 @@ This photograph provides evidence of my attendance and participation in the Week
 **Source:** Australian Government Attorney-General's Department – Copyright and AI Reference Group Governance Framework
 
 ![AI Governance Framework](ai-governance-framework.png)
+
 ### Summary of the Artefact
 
 The Australian Government published the Copyright and AI Reference Group Governance Framework in April 2024. The reference group was established to explore current and emerging copyright issues created by Artificial Intelligence and to identify possible legal uncertainties and regulatory gaps. Its 2024 work focused on understanding problems and potential solutions at the intersection of AI and copyright (Attorney-General's Department, 2024).
