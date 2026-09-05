@@ -47,7 +47,7 @@ I chose this artefact because generative AI can produce text, images and other d
 ---
 
 ## Artefact 3 – Australian Intellectual Property Report 2024
-![Australian Intellectual Property 2024](australian-ip-report-2024.jpeg)
+![Australian Intellectual Property 2024](australian-ip-report-2024.jpeg.jpeg)
 
 **Source:** IP Australia – *Australian Intellectual Property Report 2024*
 
