@@ -17,7 +17,7 @@ This photograph provides evidence of my attendance and participation in the Week
 
 **Source:** Australian Government Attorney-General's Department – Copyright and AI Reference Group Governance Framework
 
-![AI Governance Framework](ai-governance-framework.png)
+![AI Governance Framework](ai-governance-framework.png.jpeg)
 
 ### Summary of the Artefact
 
