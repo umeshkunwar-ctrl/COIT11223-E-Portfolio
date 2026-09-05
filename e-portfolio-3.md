@@ -7,7 +7,7 @@
 
 ## Workshop 7 Participation Evidence
 
-![Workshop 7 Participation](week7-workshop.jpeg)
+![Workshop 7 Participation](week7-workshop.jpeg.jpeg)
 
 This photograph provides evidence of my attendance and participation in the Week 7 workshop on Intellectual Property.
 
