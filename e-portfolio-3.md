@@ -31,8 +31,11 @@ I selected this artefact because it demonstrates how new AI technologies are cre
 
 ## Artefact 2 – Generative AI and Intellectual Property
 
+![Generative AI – Navigating Intellectual Property](generative-ai-intellectual-property.png)
+
 **Source:** World Intellectual Property Organization – *Generative AI: Navigating Intellectual Property*
 
+![Generative AI – Navigating Intellectual Property](generative-ai-intellectual-property.png)
 ### Summary of the Artefact
 
 The World Intellectual Property Organization published *Generative AI: Navigating Intellectual Property* in 2024. The publication provides guiding principles and a checklist to help organisations understand intellectual property risks when adopting generative AI. It encourages organisations to ask appropriate questions and consider safeguards before using generative AI technologies (World Intellectual Property Organization, 2024).
@@ -44,6 +47,7 @@ I chose this artefact because generative AI can produce text, images and other d
 ---
 
 ## Artefact 3 – Australian Intellectual Property Report 2024
+![Australian Intellectual Property 2024](australian-ip-report-2024.jpeg)
 
 **Source:** IP Australia – *Australian Intellectual Property Report 2024*
 
