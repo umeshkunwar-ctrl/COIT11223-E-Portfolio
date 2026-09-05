@@ -31,7 +31,7 @@ I selected this artefact because it demonstrates how new AI technologies are cre
 
 ## Artefact 2 – Generative AI and Intellectual Property
 
-![Generative AI – Navigating Intellectual Property](generative-ai-intellectual-property.png)
+![Generative AI – Navigating Intellectual Property](generative-ai-intellectual-property.png.jpeg)
 
 **Source:** World Intellectual Property Organization – *Generative AI: Navigating Intellectual Property*
 
