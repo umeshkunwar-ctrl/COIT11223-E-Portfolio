@@ -21,13 +21,11 @@ This photograph provides evidence of my attendance and participation in the Week
 
 ### Summary of the Artefact
 
-The Copyright and AI Reference Group Governance Framework was released by the Australian Government in April 2024. The reference group was created to discuss the existing and new copyright challenges arising from AI and determine potential loopholes and legal uncertainties. In 2024, it worked on the intersection of AI and copyright, understanding the issues and possible solutions (Attorney-General's Department, 2024).
+Copyright and AI Reference Group Governance Framework is the report which was published by the Australian Government in April 2024. The purpose of creation of the reference group was the discussion of the current and future copyright problems related to the AI and their identification. During 2024, the reference group considered the intersection of the AI and copyright, the problems and the ways to solve them (Attorney-General's Department, 2024).
 
 ### Reflection and Justification
 
-This artefact was chosen for its ability to illustrate the new challenges for copyright laws with AI technologies. It enabled me to realize the importance of thinking in ICT professionals about the protection of the material used by the AI systems and the respect of the creators' rights. It's related to the copyright and AI discussion this week and just a reminder of the importance of thinking about IP in the development of technology responsibly.
-
----
+The artefact chosen by me is an illustration of the new challenges faced by copyright laws with the help of AI technologies. It helped me to understand the necessity to pay attention to the protection of the materials utilized by the AI systems and to the rights of their creators. It is connected to the discussion of the copyright and AI that we have during this week.
 
 ## Artefact 2 – Generative AI and Intellectual Property
 
@@ -37,11 +35,11 @@ This artefact was chosen for its ability to illustrate the new challenges for co
 
 ### Summary of the Artefact
 
- The publication includes guiding principles and a checklist to assist organisations in understanding the IP risks in adopting generative AI. It invites organisations to ask the right questions and think twice about implementing generative AI technologies (World Intellectual Property Organization, 2024).
+This paper describes the principles and checklist which help organizations to understand the IP risks that are associated with the adoption of generative AI. This document encourages organizations to think about their actions and ask the right questions regarding implementation of the technology of generative AI (World Intellectual Property Organization, 2024).
 
 ### Reflection and Justification
 
-I selected this artefact as it is a digital artefact that can be used to create text, images and other content through Generative AI, which is a concern for ICT professionals in relation to intellectual property.I had to learn that using an AI tool does not negate the need to take ownership and what is allowed to be used. Future ICT work will take more account of copyright/ intellectual property issues when using AI-generated or external resources.
+I chose this artefact as it is an example of a digital artefact which helps to generate content through Generative AI and causes problems in terms of intellectual property for ICT professionals. It was vital for me to know that although I use AI, I still have to be responsible for my actions.
 
 ---
 
@@ -52,30 +50,30 @@ I selected this artefact as it is a digital artefact that can be used to create 
 
 ### Summary of the Artefact
 
-The report addresses issues of innovation in Australia and the contribution of the IP system to a dynamic economy. It shows that intellectual property is not just about stopping people copying it, it's about innovation, commercialisation and economic activity (IP Australia, 2024).
+The organisation has raised issues of innovation in Australia and the IP system that promotes innovation and a dynamic economy. The use of the IP rights is not only to safeguard the IP against any imitation, but they also help in stimulating innovations and economic activities (IP Australia, 2024).
 
 ### Reflection and Justification
 
-This artefact was chosen because it expanded my knowledge of the use of intellectual property. The Week 7 workshop covered various types of IP rights: patents, trademarks, designs, copyright and trade secrets. It was important for me to get an understanding of the importance of these protections from an innovator or technology company perspective because of this artefact. I should appreciate and respect the rights of others in relation to technological and creative work, as a future ICT professional.
+The above-mentioned artefact has been chosen as the object for my reflection because it has helped me to broaden my knowledge about the use of intellectual property. During the workshop in Week 7, I have learned about different types of IP rights that include patents, trademarks, designs, copyright, and trade secrets. It was important for me to learn the importance of such protection from the innovator or technology company perspective because of the above-mentioned artefact. As ICT specialist, I need to value and respect the rights of others in relation to their technological and creative work.
 
 ---
 
 ## Artefact 4 – Copyright in Australia: Key Idea from Workshop 7
 
-### Summary of the Artefact
+This is the summary of the Artefact.
 
 
-One of the main concepts I chose to explore from the Week 7 workshop is the concept of copyright protection in Australia. The workshop highlighted that copyright is about the manner and form of the information, not the information itself and that copyright is for original works. Registration of copyright is not required, it is automatic. Computer programs, photographs, artwork, music, sound recordings, broadcasts and films, are examples of protected material (CQUniversity Australia, 2026).
+The main idea of the Week 7 workshop that I decided to investigate is copyright protection in Australia. The workshop highlighted that copyright is about the manner and form of the information, not the information itself and that copyright is for original works. Registration of copyright is not required, it is automatic. Computer programs, photographs, artwork, music, sound recordings, broadcasts and films, are examples of protected material (CQUniversity Australia, 2026).
 
 ### Reflection and Justification
 
-This is a concept that I chose because it is directly related to the work of ICT professionals who frequently operate with software and digital content, as well as its copyright. I learned that I don't necessarily have the right to copy or reuse material found on the Internet. In the future when using material created by someone else I will make sure that I pay more attention to copyright ownership, licence, permission and attribution.
+I selected this concept as it is directly linked to the work of ICT professionals who are often working with software and/or digital content and copyright. I learned that I don't necessarily have the right to copy or reuse material found on the Internet. In the future when using material created by someone else I will make sure that I pay more attention to copyright ownership, licence, permission and attribution.
 
 ---
 
-## Use of Artificial Intelligence
+AI is already being applied in the medical field.AI is already being used in healthcare.
 
-This e-portfolio is the result of the planning and research processes, which have incorporated Artificial Intelligence tools. A portfolio has been structured with the aid of ChatGPT to help identify possible artefacts and understand the related concepts of IP. Information was checked with the Week 7 workshop and original sources. I then skimmed the content, and wrote my own interpretation, reflecting on my learning and workshop experience.
+This is an e-portfolio produced by the planning and research process, and using Artificial Intelligence tools. Using ChatGPT a portfolio has been designed to assist in identifying potential artefacts and the concepts surrounding them and IP. Information was verified in the Week 7 workshop and originals. I then skimmed the content, and wrote my own interpretation, reflecting on my learning and workshop experience.
 
 ---
 
