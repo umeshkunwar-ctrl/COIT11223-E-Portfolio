@@ -50,30 +50,32 @@ I chose this artefact as it is an example of a digital artefact which helps to g
 
 ### Summary of the Artefact
 
-The organisation has raised issues of innovation in Australia and the IP system that promotes innovation and a dynamic economy. The use of the IP rights is not only to safeguard the IP against any imitation, but they also help in stimulating innovations and economic activities (IP Australia, 2024).
+
+The organization has identified the problem of innovation in Australia as well as the IP system, which supports the innovation and the dynamic economy. This means that the role of IP rights does not only include protection against the copying of the intellectual property but also serves as an effective measure that promotes top innovation and an active economy (IP Australia, 2024).
+
 
 ### Reflection and Justification
 
-The above-mentioned artefact has been chosen as the object for my reflection because it has helped me to broaden my knowledge about the use of intellectual property. During the workshop in Week 7, I have learned about different types of IP rights that include patents, trademarks, designs, copyright, and trade secrets. It was important for me to learn the importance of such protection from the innovator or technology company perspective because of the above-mentioned artefact. As ICT specialist, I need to value and respect the rights of others in relation to their technological and creative work.
+
+The artefact presented above has been selected as the basis for writing reflection due to the fact that it gave me the possibility to widen my knowledge about the application of the intellectual property. During the seventh week of the course, I learnt many aspects concerning various forms of IP rights, namely patents, trademarks, designs, copyright, and other ones.
 
 ---
 
 ## Artefact 4 – Copyright in Australia: Key Idea from Workshop 7
 
-This is the summary of the Artefact.
+The summary of the artefact is as follows.
 
-
-The main idea of the Week 7 workshop that I decided to investigate is copyright protection in Australia. The workshop highlighted that copyright is about the manner and form of the information, not the information itself and that copyright is for original works. Registration of copyright is not required, it is automatic. Computer programs, photographs, artwork, music, sound recordings, broadcasts and films, are examples of protected material (CQUniversity Australia, 2026).
+The idea of the workshop that I’m going to explore (week 7) is copyright protection in Australia. The workshop informed that copyright focuses on how the information is expressed and not on the information itself and copyright applies to original works only. Copyright does not need registration; it comes into existence automatically. Examples of copyright protected materials are computer programs, photographs, artworks, music, sound recordings, broadcasts and movies (CQUniversity Australia 2026).
 
 ### Reflection and Justification
 
-I selected this concept as it is directly linked to the work of ICT professionals who are often working with software and/or digital content and copyright. I learned that I don't necessarily have the right to copy or reuse material found on the Internet. In the future when using material created by someone else I will make sure that I pay more attention to copyright ownership, licence, permission and attribution.
+I chose this topic because it relates directly to the work of professionals in ICT industry as they work with software and/or digital content and copyright. This workshop made me learn that I may not have rights to reuse what I find online and that I have to be careful using somebody else’s materials.
 
 ---
 
-AI is already being applied in the medical field.AI is already being used in healthcare.
+Artificial Intelligence has begun its journey in medicine. 
 
-This is an e-portfolio produced by the planning and research process, and using Artificial Intelligence tools. Using ChatGPT a portfolio has been designed to assist in identifying potential artefacts and the concepts surrounding them and IP. Information was verified in the Week 7 workshop and originals. I then skimmed the content, and wrote my own interpretation, reflecting on my learning and workshop experience.
+This e-portfolio is a result of the process of thinking and researching as well as utilizing AI products. The process involved making use of ChatGPT in order to create the portfolio that can help spotting potential artefacts and the ideas which go along with them and the intellectual property. The information I’m providing here has been verified during the Week 7 workshop as well as the originals. After that, I scanned the information provided and developed my own version of the text, summarizing what I had learned from the workshop.
 
 ---
 
