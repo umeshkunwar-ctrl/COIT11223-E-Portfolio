@@ -9,7 +9,7 @@
 
 ![Workshop 9 Participation](week9-workshop.jpeg)
 
-This photograph provides evidence of my attendance and participation in the Week 9 workshop on Censorship and Government.
+This picture supports that I attended Week 9’s workshop about Censorship and Government. 
 
 ---
 
@@ -21,14 +21,13 @@ This photograph provides evidence of my attendance and participation in the Week
 
 ### Summary of the Artefact
 
-The ABC News article discusses the 2024 dispute between Australia's eSafety Commissioner and X concerning access to graphic online content. The legal dispute became an important example of the difficulty governments can face when attempting to regulate content distributed through global internet platforms. The Week 9 workshop also used this case to demonstrate tensions between online safety, government regulation and the global nature of the Internet (Evans & Butler, 2024).
+According to the ABC News article, the legal conflict that emerged between Australia’s eSafety Commissioner and X in 2024 relates to the access to the explicit online content. The case illustrates how challenging it may be for governments to control the content of international platforms. The Week 9 workshop analyzed the situation to show the complicated web of relations between online security, state regulation, and the global nature of the Internet (Evans & Butler, 2024). 
 
 ### Reflection and Justification
 
-I selected this artefact because it helped me understand that censorship is not simply about deciding whether harmful content should be removed. Government intervention may protect users from harmful material, but restrictions can also raise questions about freedom of expression and the limits of government authority. 
+The reason for my choice of this artifact is that it has taught me that censorship is more than just deciding on whether to remove harmful content. The government has an important role in protecting users from dangerous content, but censorship also raises issues of freedom of speech and the government’s authority.
 
-“I learned that protecting people from harmful online content is important, but governments also need to consider freedom of expression when deciding what information should be restricted.”
-This matches the workshop's discussion of the tension between national regulation and global platforms.
+“I have learned the importance of protecting citizens from harmful content placed online but that it is also important for governments to take into account freedom of expression while making decisions on the restriction of content.”
 
 ---
 
@@ -40,14 +39,13 @@ This matches the workshop's discussion of the tension between national regulatio
 
 ### Summary of the Artefact
 
-Freedom House's *Freedom on the Net 2024* examines internet freedom across countries and reports that global internet freedom declined for the fourteenth consecutive year. The report found deterioration in online human rights conditions in 27 of the 72 countries assessed. It demonstrates how censorship, restrictions on information and pressures on online expression can affect people's ability to participate freely in digital environments (Funk, Vesteinsson & Baker, 2024).
+The Freedom House report, "Freedom on the Net 2024," has shed light on the trend of internet freedom worldwide. For 14 years in a row, the researchers have found that countries around the globe continue to struggle when it comes to the issue of online human rights (Funk, Vesteinsson & Baker, 2024).
 
 ### Reflection and Justification
 
-I selected this artefact because it expanded my understanding of censorship beyond Australia. The Week 9 workshop introduced internet freedom around the world and demonstrated that governments use different approaches to regulating online information.
+I chose this piece of information because it helped me understand the issue of censorship on the international level. When attending the Week 9 workshop, I realized that there exist different strategies of controlling online content depending on the country.  
 
-“I learned that internet freedom is different around the world and that government censorship can significantly affect what people are able to access, share and discuss online.”
-This connects directly with the workshop's section on internet freedom worldwide.
+“I realized that there is a strong connection between the concept of internet freedom and the effectiveness of government censorship in different countries.”
 
 
 
@@ -61,14 +59,14 @@ This connects directly with the workshop's section on internet freedom worldwide
 
 ### Summary of the Artefact
 
-Australia's social media age restrictions require age-restricted social media platforms to take reasonable steps to prevent Australians under 16 from creating or keeping accounts. The restrictions took effect on 10 December 2025 and form part of Australia's approach to protecting young people online (eSafety Commissioner, 2026). The policy provides a current example of government regulation affecting access to major digital platforms.
+Australia's law pertaining to social media puts age restrictions on providing age-appropriate social media platforms with legal responsibility to take reasonable measures to prevent Australians under 16 from registering or continuing to use social media accounts. The legislation came into effect on December 10, 2025, and is part of the Australian efforts to protect minors online (eSafety Commissioner, 2026). The law is a good example of how government policies affect the access to major digital platforms.
 
 ### Reflection and Justification
 
-I selected this artefact because it demonstrates the difficulty of balancing protection from online harm with access to digital platforms. The Week 9 workshop discussed Australia's under-16 social media restrictions as an example of government control of online access.
+I chose this artefact because it illustrates how challenging it is to balance providing people with protection from online threats with granting access to digital platforms. Week 9 discussion touched on the Australian law on social media age restrictions as an illustration of governments’ regulating access to the internet.
 
-“I learned that protecting young people from online harm is important, but restricting access to social media can also raise concerns about freedom, privacy and access to information.”
-Your workshop presents the under-16 restrictions as raising questions about government control of online access
+
+“I found that it is important to protect young people from online harm; however, restrictions in using social media can also pose questions in regard to the issue of freedom and the right to access information.”
 
 
 
@@ -82,14 +80,16 @@ Your workshop presents the under-16 restrictions as raising questions about gove
 
 ### Summary of the Artefact
 
-One important concept I selected from the Week 9 workshop was John Stuart Mill's ethical perspective on censorship. The workshop explained that Mill opposed censorship and supported freedom of expression because individuals and majorities can be mistaken. Open discussion allows ideas to be questioned and tested. The workshop also introduced Mill's harm principle, under which intervention can be justified when it is necessary to prevent harm to other people (CQUniversity Australia, 2026).
+A key principle that I took from the workshop held in Week 9 was John Stuart Mill's view about censorship. According to the presentation, Mill resisted censorship and favored freedom of expression because both individuals and the majority of people may be wrong. Discussion lets ideas be analyzed and challenged. In addition, the presentation dealt with Mill's harm principle, implying that intervention may be necessary in case of preventing harm to others (CQUniversity Australia, 2026).
 
 ### Reflection and Justification
 
-I selected this concept because it gave me an ethical framework for evaluating censorship rather than considering the issue only from a legal or technical perspective.
+This principle was selected by me since it gave me an ethical background to judge about censorship, not only from legal or technical point of view.
 
-“I learned from Mill's harm principle that freedom of expression should generally be respected, while restrictions may sometimes be justified when they are necessary to prevent harm to other people.”
-This closely reflects the ethical concept taught in your Week 9 slides
+
+
+
+“I learned from Mill's harm principle that freedom of speech should be respected, although some restrictions may be justified”.
 
 
 
@@ -97,7 +97,7 @@ This closely reflects the ethical concept taught in your Week 9 slides
 
 ## Use of Artificial Intelligence
 
-Artificial Intelligence tools were used during the planning and research stages of this e-portfolio. ChatGPT was used to help organise the portfolio structure, identify possible artefacts and understand concepts related to censorship and government regulation. I checked the information against the Week 9 workshop material and original sources. I reviewed and revised the material and developed my final reflections to represent my own learning and workshop experience.
+For the planning and research phases of this e-portfolio, Artificial Intelligence tools were leveraged. ChatGPT was applied in order to structure the portfolio, list potential artefacts, and comprehend articles pertaining to censorship and governmental regulation. The information was validated against the Week 9 workshop material and primary sources. The material was scrutinised and improved while the last thoughts were written to express my learning and experience from the workshop.
 
 ---
 
@@ -105,8 +105,8 @@ Artificial Intelligence tools were used during the planning and research stages 
 
 CQUniversity Australia 2026, *COIT11223 ICT Ethics and Governance in Society – Week 9: Censorship and Government*, CQUniversity Australia.
 
-eSafety Commissioner 2026, *Social media age restrictions*, Australian Government, viewed 20 September 2026, <https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions>.
+eSafety Commissioner 2026, *Social media age restrictions*, Australian Government, accessed on 20 September 2026 from .
 
-Evans, J & Butler, J 2024, ‘eSafety drops case against Elon Musk’s X over church stabbing videos’, *ABC News*, 5 June, viewed 20 September 2026, <https://www.abc.net.au/news/2024-06-05/esafety-elon-musk-x-church-stabbing-videos-court-case/103937152>.
+Evans, J. & Butler, J. 2024, ‘eSafety withdraws action against Elon Musk’s X relating to church stabbing videos’, *ABC News*, 5 June, accessed on 20 September 2026 from .
 
-Funk, A, Vesteinsson, K & Baker, G 2024, *Freedom on the Net 2024: The Struggle for Trust Online*, Freedom House, viewed 20 September 2026, <https://freedomhouse.org/report/freedom-net/2024/struggle-trust-online>.
+Funk, A., Vesteinsson, K. & Baker, G. 2024, *Freedom on the Net 2024: The Struggle for Trust Online*, Freedom House, accessed on 20 September 2026 from .
