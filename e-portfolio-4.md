@@ -27,9 +27,8 @@ The ABC News article discusses the 2024 dispute between Australia's eSafety Comm
 
 I selected this artefact because it helped me understand that censorship is not simply about deciding whether harmful content should be removed. Government intervention may protect users from harmful material, but restrictions can also raise questions about freedom of expression and the limits of government authority. 
 
-**YOUR SENTENCE: Write one sentence explaining what you personally learned about balancing online safety and freedom.**
-
-This case showed me that ICT professionals need to consider both the intended benefits and wider consequences of restricting online content.
+“I learned that protecting people from harmful online content is important, but governments also need to consider freedom of expression when deciding what information should be restricted.”
+This matches the workshop's discussion of the tension between national regulation and global platforms.
 
 ---
 
@@ -47,9 +46,10 @@ Freedom House's *Freedom on the Net 2024* examines internet freedom across count
 
 I selected this artefact because it expanded my understanding of censorship beyond Australia. The Week 9 workshop introduced internet freedom around the world and demonstrated that governments use different approaches to regulating online information.
 
-**YOUR SENTENCE: Write one sentence explaining something that personally surprised you about internet censorship around the world.**
+“I learned that internet freedom is different around the world and that government censorship can significantly affect what people are able to access, share and discuss online.”
+This connects directly with the workshop's section on internet freedom worldwide.
 
-This artefact helped me understand why ICT professionals should consider freedom of expression and the social consequences of technologies that restrict access to information.
+
 
 ---
 
@@ -67,9 +67,10 @@ Australia's social media age restrictions require age-restricted social media pl
 
 I selected this artefact because it demonstrates the difficulty of balancing protection from online harm with access to digital platforms. The Week 9 workshop discussed Australia's under-16 social media restrictions as an example of government control of online access.
 
-**YOUR SENTENCE: Write one sentence explaining what you personally learned about protecting young people versus restricting their online access.**
+“I learned that protecting young people from online harm is important, but restricting access to social media can also raise concerns about freedom, privacy and access to information.”
+Your workshop presents the under-16 restrictions as raising questions about government control of online access
 
-This example helped me recognise that ICT professionals may need to implement government requirements while also considering privacy, accessibility and users' rights.
+
 
 ---
 
@@ -87,9 +88,10 @@ One important concept I selected from the Week 9 workshop was John Stuart Mill's
 
 I selected this concept because it gave me an ethical framework for evaluating censorship rather than considering the issue only from a legal or technical perspective.
 
-**YOUR SENTENCE: Write one sentence explaining how Mill's harm principle developed or changed your own understanding of censorship.**
+“I learned from Mill's harm principle that freedom of expression should generally be respected, while restrictions may sometimes be justified when they are necessary to prevent harm to other people.”
+This closely reflects the ethical concept taught in your Week 9 slides
 
-I learned that decisions about restricting online information require consideration of both individual freedom and potential harm to others. This is relevant to ICT professionals involved in online platforms, content moderation and online-safety technologies.
+
 
 ---
 
