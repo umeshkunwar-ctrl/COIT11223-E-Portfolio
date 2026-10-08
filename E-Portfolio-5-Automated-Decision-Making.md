@@ -41,7 +41,7 @@ I selected this artefact because it raises the question of whether people have m
 
 **Artefact evidence:**
 
-![Artefact 2 – official source screenshot](images/Artefact-2.png)
+![Artefact 2](Artefact-2-Government-ADM-Consultation.png)
 
 ## Artefact 3 – Automated Decision-Making and Public Reporting (2026)
 
