@@ -92,7 +92,7 @@ I chose this artefact because it offers a practical example of explaining govern
 
 **Artefact evidence:**
 
-![Artefact 5 – official source screenshot](images/Artefact-5.png)
+![Artefact 5](Artefact-5-UK-Algorithmic-Transparency-Guidance.png)
 
 
 ## Artefact 6 – Mandatory Algorithmic Transparency Policy (2024)
