@@ -75,7 +75,7 @@ I selected this artefact because it shows that technology-related decisions can 
 
 **Artefact evidence:**
 
-![Artefact 4 – official source screenshot](images/Artefact-4.png)
+![Artefact 4](Artefact-4-Robodebt-Implementation-Update.png)
 
 ## Artefact 5 – Algorithmic Transparency Recording Standard Guidance
 
