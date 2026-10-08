@@ -22,7 +22,7 @@ The National Framework for the Assurance of Artificial Intelligence in Governmen
 
 This artefact helped me understand that testing an automated system should involve more than checking its technical accuracy. I would also want to examine whether it creates unfair outcomes for particular groups. This connects with Rule Utilitarianism because applying reliable safeguards can improve outcomes across society. It also reflects the ACS principle of putting the public interest first.
 
-**Artefact evidence:** Insert a screenshot of the framework's title page.
+**Artefact evidence:** ![Artefact 1](images/Artefact-1.png)
 
 ## Artefact 2 – OAIC Consultation on Government ADM (2025)
 
