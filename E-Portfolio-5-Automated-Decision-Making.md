@@ -22,7 +22,7 @@ The National Framework for the Assurance of Artificial Intelligence in Governmen
 
 This artefact helped me understand that testing an automated system should involve more than checking its technical accuracy. I would also want to examine whether it creates unfair outcomes for particular groups. This connects with Rule Utilitarianism because applying reliable safeguards can improve outcomes across society. It also reflects the ACS principle of putting the public interest first.
 
-**Artefact evidence:** ![Artefact 1](images/Artefact-1.png)
+**Artefact evidence:** ![Artefact 1](images/Artefact1.png)
 
 ## Artefact 2 – OAIC Consultation on Government ADM (2025)
 
@@ -37,7 +37,7 @@ In January 2025, the OAIC published a submission about government use of automat
 
 I selected this artefact because it raises the question of whether people have meaningful control when governments use their personal information. I believe an individual should be able to seek an explanation and request a review when an automated decision affects them. This connects with Kantian ethics, which emphasises respecting individuals, and the ACS values of honesty and quality of life.
 
-**Artefact evidence:** Insert a screenshot showing the OAIC submission title and publication date.
+**Artefact evidence:** ![Artefact 2](images/Artefact-2.png)
 
 ## Artefact 3 – Automated Decision-Making and Public Reporting (2026)
 
@@ -52,7 +52,7 @@ This OAIC report examines public reporting about automated decision-making under
 
 This artefact made me think about the difference between making information available and communicating it clearly. Technical explanations may be difficult for ordinary citizens to understand. I think ICT professionals should help create explanations that are accurate and accessible. Virtue Ethics encourages honesty and responsible professional behaviour, while the ACS Code supports truthful communication and public accountability.
 
-**Artefact evidence:** Insert a screenshot of the OAIC report heading.
+**Artefact evidence:** ![Artefact 3](images/Artefact-3.png)
 
 ## Artefact 4 – Robodebt Royal Commission Implementation Update (2026)
 
@@ -67,7 +67,7 @@ The March 2026 implementation update concerns the Australian Government's respon
 
 I selected this artefact because it shows that technology-related decisions can have significant human consequences. It made me consider why ICT professionals should raise concerns about systems that may cause harm, even when an organisation is under pressure to work quickly. Act Utilitarianism encourages examining consequences, while Kantianism emphasises duties and respect for individuals. Both approaches can support stronger safeguards.
 
-**Artefact evidence:** Insert a screenshot of the implementation update's cover page.
+**Artefact evidence:** ![Artefact 4](images/Artefact-4.png)
 
 ## Artefact 5 – Algorithmic Transparency Recording Standard Guidance
 
@@ -82,7 +82,8 @@ The UK's Algorithmic Transparency Recording Standard provides guidance to public
 
 I chose this artefact because it offers a practical example of explaining government technology to citizens. I think public trust depends on more than saying that a system is efficient. People should understand when an algorithm influences important decisions. This connects with Social Contract Theory, which considers the relationship between public institutions and citizens, and with the ACS principle of honesty.
 
-**Artefact evidence:** Insert a screenshot of the UK guidance heading and its displayed publication or update date.
+**Artefact evidence:** ![Artefact 5](images/Artefact-5.png)
+
 
 ## Artefact 6 – Mandatory Algorithmic Transparency Policy (2024)
 
@@ -97,7 +98,8 @@ The UK Government published its mandatory scope and exemptions policy for the Al
 
 This artefact helped me compare Australia's emphasis on assurance and oversight with the UK's formal transparency reporting approach. I think both approaches have value, but neither automatically guarantees fair decisions. Governments also need appropriate testing, monitoring and human review. Rule Utilitarianism supports dependable governance rules, while the ACS value of competence highlights the importance of professional knowledge and responsibility.
 
-**Artefact evidence:** Insert a screenshot showing the policy title and December 2024 publication date.
+**Artefact evidence:** ![Artefact 6](images/Artefact-6.png)
+
 
 ## Overall Reflection
 
