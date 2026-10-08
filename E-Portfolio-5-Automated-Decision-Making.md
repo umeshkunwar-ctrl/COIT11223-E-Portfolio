@@ -58,7 +58,7 @@ This artefact made me think about the difference between making information avai
 
 **Artefact evidence:**
 
-![Artefact 3 – official source screenshot](images/Artefact-3.png)
+![Artefact 3](Artefact-3-ADM-Public-Reporting.png)
 
 ## Artefact 4 – Robodebt Royal Commission Implementation Update (2026)
 
