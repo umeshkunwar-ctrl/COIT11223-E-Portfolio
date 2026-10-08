@@ -110,7 +110,7 @@ This artefact helped me compare Australia's emphasis on assurance and oversight 
 
 **Artefact evidence:**
 
-![Artefact 6 – official source screenshot](images/Artefact-6.png)
+![Artefact 6](Artefact-6-UK-Mandatory-Transparency-Policy.png)
 
 
 ## Overall Reflection
