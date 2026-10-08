@@ -26,7 +26,7 @@ This artefact helped me understand that testing an automated system should invol
 
 **Artefact evidence:**
 
-![Artefact 1 – official source screenshot](images/Artefact-1.png)
+Artefact-1.png
 
 ## Artefact 2 – OAIC Consultation on Government ADM (2025)
 
