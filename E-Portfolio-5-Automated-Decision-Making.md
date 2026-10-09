@@ -74,7 +74,7 @@ When I consider this artifact, I think about the difference between information 
 
 **Summary**
 
-The implementation update of March 2026 is associated with the rulings of the Robodebt Royal Commission and the answer that the Australian Government gives in relation to the recommendations of the mentioned commission. Robodebt was not an example of modern generative AI; rather, it was a blend of illegal automated income averaging and administrative practices. In this way, it showcases the dangers of failing to properly protect and monitor the process of evaluating government debts. The source discusses the importance of lawful decision making, the accountability of organizations, and the safety of people affected by government platforms, thus being applicable to ADM (Department of the Prime Minister and Cabinet 2026).
+The progress report for March 2026 relates to the findings of the Robodebt Royal Commission and the Australian government’s response to the conclusions of the commission. Robodebt cannot therefore be classified as a sort of advanced AI; on the contrary, it was a combination of unlawful practices involving automated methods of income assessment with administrative processes. This is what shows the implications of not assuring adequate safety and monitoring of debt assessment activities on the part of the government. The author of the article emphasizes the importance of the legitimacy of decisions made as well as the liability of organizations in charge of their execution and the safety of citizens who are getting under the influence of governmental systems (Department of the Prime Minister and Cabinet 2026).
 
 **Personal reflection**
 
@@ -97,8 +97,7 @@ The Algorithmic Transparency Recording Standard in the UK seeks to provide guida
 
 **Personal reflection**
 
-The artifact I will study is informative because it explains how the technologies created by government agencies work for the sake of the public. In my view, trust can be gained not only by claiming that the system has been successful but also by making sure people know when their decisions are influenced by algorithms. The considered issues concern Social Contract Theory and the ACS principle of honesty.
-
+The item that I plan to analyze is informative as it describes how technologies invented by state institutions and organizations perform their functions for the benefit of society. I believe trust can be established not only through affirmations about the success of the system but also through the explanation of when one’s decisions are being affected by algorithms. The above-mentioned problems pertain to the notion of the Social Contract Theory and the principle of the honesty (ACS).
 **Artefact evidence:**
 
 ![Artefact 5](Artefact-5-UK-Algorithmic-Transparency-Guidance.png)
@@ -117,7 +116,7 @@ In December 2024, the government of the United Kingdom released its obligatory p
 
 **Personal reflection**
 
-This artifact enabled me to compare the ideas of assurance and oversight emphasized by Australia with the formal approach to transparency reporting applied by the United Kingdom. I believe that both approaches may be useful; however, each of them does not ensure yet that decisions will be made fairly. The idea of rule utilitarianism allows for the establishment of reliable governance standards while the value of competence by ACS underlines the significance of being a professional with certain knowledge.
+In this particular example, I could investigate the notion of assurance and regulation as pointed out in Australia against the formal style of transparency reporting utilized by the UK. Despite being convinced that both styles have their own advantages, they do not guarantee the fairness of decision making at this stage. Rule utilitarianism allows imposing strict governance standards while the notion of competence promoted by the ACS stresses the importance of professionalism.
 
 
 **Artefact evidence:**
