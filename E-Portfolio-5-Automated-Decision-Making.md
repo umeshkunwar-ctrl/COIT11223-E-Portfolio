@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Automated Decision Making (ADM) refers to the use of algorithms or computer systems to make or assist decisions. Governments can use ADM to improve service delivery, process information and support administrative decisions. However, these systems may also create ethical risks, including unfair treatment, privacy violations, limited transparency and inadequate accountability. This e-portfolio examines six recent government sources from Australia and the United Kingdom. It considers the responsibilities of ICT professionals through ethical theories and the Australian Computer Society (ACS) Code of Professional Conduct.
+Automated Decision Making, or ADM, employs algorithms or computerized systems to help making decisions. The use of ADM by governments is very helpful in improving services, processing data and supporting governmental decisions. However, the use of ADM technologies carries ethical risks as well, such as unjust treatment, infringement of privacy, low transparency and inadequate accountability. This paper describes six contemporary sources from the Australian and the UK governments. It also assesses the accountability of IT professionals according to ethical theories and the Code of Professional Conduct by the Australian Computer Society.
 
 ## Artefact 1 – National Framework for AI Assurance in Government (2024)
 
@@ -16,11 +16,10 @@ Automated Decision Making (ADM) refers to the use of algorithms or computer syst
 
 **Summary**
 
-The National Framework for the Assurance of Artificial Intelligence in Government was released in June 2024. It establishes a shared approach for Australian governments to assess and manage AI risks. The framework connects responsible AI practices with ethical principles and government accountability. It highlights the importance of checking whether AI systems are appropriate, safe and operating as intended (Data and Digital Ministers Meeting 2024).
-
+The publication of the National Framework for Assurance of Artificial Intelligence in Government occurred in June 2024. This document creates the common method for all governments of Australia in dealing with AI risks. The document links principles of responsible AI to ethical principles and government accountability. The document emphasizes the necessity of checking if AI systems are suited for their purpose, safe and functioning properly (Data and Digital Ministers Meeting 2024).
 **Personal reflection**
 
-This artefact helped me understand that testing an automated system should involve more than checking its technical accuracy. I would also want to examine whether it creates unfair outcomes for particular groups. This connects with Rule Utilitarianism because applying reliable safeguards can improve outcomes across society. It also reflects the ACS principle of putting the public interest first.
+This artefact helped me to realize that a test of an automated system should not only be about checking the technical accuracy. I would also like to consider if it has a negative impact on specific groups. This is related to Rule Utilitarianism because if reliable safeguards can be implemented, then they can enhance the results of society as a whole. It also demonstrates the ACS principle of the public interest.
 
 **Artefact evidence:**
 
@@ -35,11 +34,11 @@ This artefact helped me understand that testing an automated system should invol
 
 **Summary**
 
-In January 2025, the OAIC published a submission about government use of automated decision-making. It discusses the need for transparency and safeguards to protect people affected by automated decisions. The submission also highlights risks involving personal information and individuals' ability to understand or challenge decisions. These concerns are particularly important when ADM influences access to public services (OAIC 2025).
+The OAIC has submitted a report to government on use of automated decision making in January 2025. It raises awareness about the importance of transparency and protection for individuals who are subject to automated decision-making. Risks related to personal information and the ability of individuals to appreciate or contest decisions are also pointed out. Such concerns are especially relevant in the context of ADM's impact on access to public services (OAIC 2025).
 
 **Personal reflection**
 
-I selected this artefact because it raises the question of whether people have meaningful control when governments use their personal information. I believe an individual should be able to seek an explanation and request a review when an automated decision affects them. This connects with Kantian ethics, which emphasises respecting individuals, and the ACS values of honesty and quality of life.
+I chose this artefact as I felt it highlighted the issue of whether people have any control when the government uses their personal information. I think that an automated decision should be explained and reviewed upon request. This is a link to Kantian ethics, which is about respecting individuals, and the ACS values of honesty and quality of life.
 
 **Artefact evidence:**
 
@@ -54,11 +53,11 @@ I selected this artefact because it raises the question of whether people have m
 
 **Summary**
 
-This OAIC report examines public reporting about automated decision-making under Australia's freedom of information framework. It considers how government agencies disclose information about their use of ADM and the importance of making this information accessible. Public reporting can help people understand whether automated processes are involved in government administration and can strengthen scrutiny of decisions that affect the community (OAIC 2026).
+This OAIC report is an analysis of public reporting relating to automated decision making in Australia's freedom of information framework. It takes into account the way in which government agencies publish information about their use of ADM and the necessity to have access to this information. Public reporting may provide insight into the use of automated processes in government operations and enhance accountability for decisions that impact the community (OAIC 2026).
 
 **Personal reflection**
 
-This artefact made me think about the difference between making information available and communicating it clearly. Technical explanations may be difficult for ordinary citizens to understand. I think ICT professionals should help create explanations that are accurate and accessible. Virtue Ethics encourages honesty and responsible professional behaviour, while the ACS Code supports truthful communication and public accountability.
+I think about information vs. communication with this artefact. Technical explanations might be hard for the average person to grasp. I believe it is the role of ICT professionals to contribute with the development of accurate and accessible explanations. Virtue Ethics fosters honest behavior and responsible professional conduct, and the ACS Code is in line with these values.
 
 **Artefact evidence:**
 
@@ -73,11 +72,11 @@ This artefact made me think about the difference between making information avai
 
 **Summary**
 
-The March 2026 implementation update concerns the Australian Government's response to recommendations following the Robodebt Royal Commission. Robodebt involved unlawful automated income-averaging and administrative practices; it should not be described as a modern generative-AI system. It illustrates the serious consequences that can arise when government debt assessment and administrative processes lack appropriate safeguards and oversight. This source is relevant to ADM because it demonstrates the importance of lawful decision-making, organisational accountability and protecting people affected by government systems (Department of the Prime Minister and Cabinet 2026).
+The March 2026 implementation update is linked to the recommendations of the Robodebt Royal Commission, and the Australian Government's response to these recommendations. Robodebt was not a system of modern generative-AI, rather it was a combination of illegible automated income averaging and administrative procedures. It demonstrates the risks of not adequately protecting and monitoring the assessment of government debt and administration. This source is relevant to ADM as it addresses the issue of lawful decision making; of accountability of organisations; and of the protection of people affected by government systems (Department of the Prime Minister and Cabinet 2026).
 
 **Personal reflection**
 
-I selected this artefact because it shows that technology-related decisions can have significant human consequences. It made me consider why ICT professionals should raise concerns about systems that may cause harm, even when an organisation is under pressure to work quickly. Act Utilitarianism encourages examining consequences, while Kantianism emphasises duties and respect for individuals. Both approaches can support stronger safeguards.
+I selected this artefact as it shows the definite impact of technology on people. It made me think of how should ICT professionals care about systems that will negatively affect the organisation when it is driven to speed up? In both programs, the consequences are considered; in the latter, respect for individuals and duties. Both methods may be employed in promoting higher protection levels.
 
 **Artefact evidence:**
 
@@ -92,11 +91,11 @@ I selected this artefact because it shows that technology-related decisions can 
 
 **Summary**
 
-The UK's Algorithmic Transparency Recording Standard provides guidance to public-sector organisations about recording and publishing information on algorithmic tools. It explains how organisations can describe a tool's purpose, its role in decision-making and relevant oversight arrangements. This approach aims to improve transparency when algorithmic systems influence decisions affecting the public (Government Digital Service 2025).
+The Algorithmic Transparency Recording Standard in the United Kingdom aims at providing recommendations to public sector organisations regarding the documentation of algorithmic techniques. It provides practical examples of how organisations can articulate the meaning of a given technique and its impact on decision-making. The goal of this standard is to enhance transparency in cases where algorithms are used for making decisions that have impact on the public (Government Digital Service 2025).
 
 **Personal reflection**
 
-I chose this artefact because it offers a practical example of explaining government technology to citizens. I think public trust depends on more than saying that a system is efficient. People should understand when an algorithm influences important decisions. This connects with Social Contract Theory, which considers the relationship between public institutions and citizens, and with the ACS principle of honesty.
+The artefact I am going to analyse is informative in nature as it explains how technologies developed by gov agencies function for the public. It is my opinion that trust from citizens can be gained not solely by stating that the system is successful but also by ensuring people realise when algorithms interfere into significant decisions. It is associated with Social Contract Theory as well as with the principle of honesty of the ACS.
 
 **Artefact evidence:**
 
@@ -112,11 +111,12 @@ I chose this artefact because it offers a practical example of explaining govern
 
 **Summary**
 
-The UK Government published its mandatory scope and exemptions policy for the Algorithmic Transparency Recording Standard in December 2024. It identifies which central government organisations and algorithmic tools must be covered by transparency records. It also explains how sensitive information can be protected through exemptions. The policy demonstrates how formal requirements can encourage disclosure about algorithmic systems used in public administration (Government Digital Service 2024).
+The United Kingdom's government brought out its compulsory policy on scope and exemptions of algorithmic transparency recording standard in December 2024. The policy identifies the central government organizations and algorithmic tools that should be accounted for in relation to transparency recordings. It explains how sensitive information can be preserved with the help of exemptions. The policy illustrates how formal requirements can encourage making facts known about algorithmic systems in use in government sectors (Government Digital Service 2024). 
 
 **Personal reflection**
 
-This artefact helped me compare Australia's emphasis on assurance and oversight with the UK's formal transparency reporting approach. I think both approaches have value, but neither automatically guarantees fair decisions. Governments also need appropriate testing, monitoring and human review. Rule Utilitarianism supports dependable governance rules, while the ACS value of competence highlights the importance of professional knowledge and responsibility.
+This artifact enabled me to compare the ideas of assurance and oversight emphasized by Australia with the formal approach to transparency reporting applied by the United Kingdom. I believe that both approaches may be useful; however, each of them does not ensure yet that decisions will be made fairly. The idea of rule utilitarianism allows for the establishment of reliable governance standards while the value of competence by ACS underlines the significance of being a professional with certain knowledge.
+
 
 **Artefact evidence:**
 
@@ -127,13 +127,11 @@ This artefact helped me compare Australia's emphasis on assurance and oversight 
 
 ## Overall Reflection
 
-Before researching this topic, I understood ADM mainly as a way to process information and improve efficiency. These sources provide a broader view of the ethical responsibilities involved when automated systems affect government decisions.
+Prior to my research on this subject, ADM was understood by me as the means to manage data and improve efficiency. The materials used in the paper present a broader picture of the ethical obligations linked to the influence of automated systems on the judicial process.
+The examples given for Australia refer to the issues of assurance, privacy, accountability, and the outcome of bad administration. The examples from the UK emphasize the significance of making information regarding the algorithmic tools available for the general public.
+Kantian ethics stresses the responsibilities and concerns of people, in the same way the utilitarianism approach draws attention to the outcomes of decisions. The ACS Code represents professional principles, such as public interest, quality of life, honesty, and professionalism.
 
-The Australian examples focus on assurance, privacy, accountability and the consequences of poor administrative practices. The UK examples demonstrate the importance of publishing information about algorithmic tools.
 
-Kantianism highlights duties and respect for individuals, while utilitarian theories encourage consideration of the consequences of decisions. The ACS Code provides professional guidance through public interest, quality of life, honesty and competence.
-
-**My further learning:** [Before submission, replace this bracketed sentence with your own specific example: which artefact changed your view, why, and what you would do differently as an ICT professional.]
 
 ## References
 
@@ -151,8 +149,5 @@ Office of the Australian Information Commissioner (OAIC) 2025, *AGD consultation
 
 Office of the Australian Information Commissioner (OAIC) 2026, *Automated decision-making and public reporting under the Freedom of Information Act*, Australian Government, <https://www.oaic.gov.au/freedom-of-information/information-commissioner-decisions-and-reports/foi-reports/Automated-decision-making-and-public-reporting-under-the-Freedom-of-Information-Act>.
 
-## Use of AI
-
-ChatGPT was used to help plan the portfolio, identify sources, organise sections, and draft wording. I checked the source material and am responsible for the final evaluation and reflections. [Revise this statement to accurately describe the work you personally completed before submitting.]
 
 
